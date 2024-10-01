@@ -1,1 +1,2 @@
-![image](https://github.com/user-attachments/assets/a920027f-97a4-44d7-a3de-78663f1d8917)
+# Happy Birthday Card in Android Studio, Java Kotlin
+![image](https://github.com/user-attachments/assets/df54915a-2105-4a8f-84c6-1f72b022966b)
